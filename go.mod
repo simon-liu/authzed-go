@@ -3,13 +3,13 @@ module github.com/authzed/authzed-go
 go 1.21.0
 
 require (
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250613105001-9f2d3c737feb.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.34.1-20250613105001-9f2d3c737feb.1
 	github.com/authzed/grpcutil v0.0.0-20230908193239-4286bb1d6403
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/ecordell/optgen v0.0.9
-	github.com/envoyproxy/protoc-gen-validate v1.2.1
+	github.com/envoyproxy/protoc-gen-validate v1.1.0
 	github.com/golangci/golangci-lint/v2 v2.1.6
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.23.0
 	github.com/jzelinskie/stringz v0.0.3
 	github.com/magefile/mage v1.15.0
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
